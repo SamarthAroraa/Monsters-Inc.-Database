@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monsters-Inc.-Database/static/css/main.57deb8af.chunk.css",
+    "main.js": "/Monsters-Inc.-Database/static/js/main.a48fdc91.chunk.js",
+    "main.js.map": "/Monsters-Inc.-Database/static/js/main.a48fdc91.chunk.js.map",
+    "runtime-main.js": "/Monsters-Inc.-Database/static/js/runtime-main.c40d16ac.js",
+    "runtime-main.js.map": "/Monsters-Inc.-Database/static/js/runtime-main.c40d16ac.js.map",
+    "static/js/2.d679a014.chunk.js": "/Monsters-Inc.-Database/static/js/2.d679a014.chunk.js",
+    "static/js/2.d679a014.chunk.js.map": "/Monsters-Inc.-Database/static/js/2.d679a014.chunk.js.map",
+    "index.html": "/Monsters-Inc.-Database/index.html",
+    "precache-manifest.8e9682950ff19db33027cf5609384312.js": "/Monsters-Inc.-Database/precache-manifest.8e9682950ff19db33027cf5609384312.js",
+    "service-worker.js": "/Monsters-Inc.-Database/service-worker.js",
+    "static/css/main.57deb8af.chunk.css.map": "/Monsters-Inc.-Database/static/css/main.57deb8af.chunk.css.map",
+    "static/js/2.d679a014.chunk.js.LICENSE.txt": "/Monsters-Inc.-Database/static/js/2.d679a014.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c40d16ac.js",
+    "static/js/2.d679a014.chunk.js",
+    "static/css/main.57deb8af.chunk.css",
+    "static/js/main.a48fdc91.chunk.js"
+  ]
+}
